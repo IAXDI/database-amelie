@@ -9,4 +9,4 @@ Le projet contient :
 
 ## Instructions
 1. Ouvrir le fichier `database.bd` avec un logiciel compatible SQLite.
-2. Lire le document `cahier_des_charges.pdf` pour comprendre le projet et les choix réalisés.
+2. Lire le document `Rapport.pdf` pour comprendre le projet et les choix réalisés.
