@@ -1,12 +1,13 @@
 # Projet Base de Données - Site Amélie
 
 ## Description
-Ce projet consiste à créer une base de données basée sur les besoins d’un cahier des charges du site Amélie. 
+Projet de création d'une base de données basée avec les données du site Amélie.
 
-Le projet contient :
-- `database.bd` : la base de données créée.
-- `cahier_des_charges.pdf` : document décrivant les besoins et le fonctionnement du projet.
+## Contenu du projet
+- `database.bd` : base de données (SQLite)
+- `cahier_des_charges.pdf` : description du projet et cahier des charges
 
 ## Instructions
-1. Ouvrir le fichier `database.bd` avec un logiciel compatible SQLite.
-2. Lire le document `Rapport.pdf` pour comprendre le projet et les choix réalisés.
+1. Télécharger le dépôt.
+2. Ouvrir `database.bd` avec un logiciel compatible SQLite.
+3. Consulter le PDF `Rapport.pdf` pour comprendre les données et le fonctionnement.
