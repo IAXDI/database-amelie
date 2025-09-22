@@ -5,7 +5,7 @@ Projet de création d'une base de données basée avec les données du site Amé
 
 ## Contenu du projet
 - `database.bd` : base de données (SQLite)
-- `cahier_des_charges.pdf` : description du projet et cahier des charges
+- `Rapport.pdf` : description du projet 
 
 ## Instructions
 1. Télécharger le dépôt.
